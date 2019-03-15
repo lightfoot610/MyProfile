@@ -1,39 +1,22 @@
+
+
+## My Profile
+
 ![family7jpg](https://user-images.githubusercontent.com/48243224/54421247-01cd6980-4747-11e9-99f1-1d1979fdb6a0.jpg)
 
-## Welcome to GitHub Pages
+I am 30, married and have a energetic 2 year old boy. I am an electrician and working in the building and construction industry for 13 years. My life evolves around family but i have a passion for AFL football and cricket also. Previous knee reconstructions and surgeries has limited and shutdown my football career. I still enjoy helping my local club though managing one of the teams.
 
-You can use the [editor on GitHub](https://github.com/lightfoot610/MyProfile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Interest in IT
 
-### Markdown
+I have always had an interest in IT but in my younger age, I spent most of my time invested in sporting activities. Now with my body not as able as before I've begun to spend more time behind a screen and become curious about how the internet, programs, applications, all come to be. My experience is limited, I completed BIT (Business Information Technology) subject in high school and set up switches, comms racks through my work for homes and businesses. I see IT guys come in and program rooms and areas I’ve wired and found their work so much more intriguing. I chose to RMIT to complete a Bachelor of IT and learn these skills and expand my knowledge in a more challenging and rewarding field.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Ideal Job
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Profile
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lightfoot610/MyProfile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Project Ideas
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
