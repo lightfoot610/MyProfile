@@ -25,7 +25,7 @@ The ideal job for at this time is a business IT analyst as it I know its an impo
 #### Plan 
 My experience and skills are limited as I am now just beginning my IT path. I plan to obtain these skills throughout my Bachelor of IT at RMIT university. My progress may be slow at times due to present work situations or family commitments but I am driven to excel and be apart of this IT world. I also plan to gain an internship through family contacts as i progress to gain further knowledge.
 
-[Business IT Analyst](https://www.seek.com.au/job/38420675?searchrequesttoken=ddce4d38-82ef-4baf-bfa4-3739f675aa4f&type=standard)
+[Business IT Analyst - Seek](https://www.seek.com.au/job/38420675?searchrequesttoken=ddce4d38-82ef-4baf-bfa4-3739f675aa4f&type=standard)
 ## Personal Profile
 Personal Online Tests are a way of finding out a persons traits or personality. Ive attached 3 results of online tests about myself.
 I found the results interesting knowing what my strengths and weaknesses are when it comes to learning and how i apprroach certain situations. It can be beneficial in a team exercise by knowing my traits i can work towards the certain tasks that i will more likely to excel at and be the most productive in for the team.
