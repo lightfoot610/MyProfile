@@ -1,5 +1,5 @@
-# Wayne Lightfoot        __Student ID: s3792967__
-
+# __Wayne Lightfoot__      
+Student ID: s3792967
 **s3792967@student.rmit.edu.au**
 
 ![family7jpg](https://user-images.githubusercontent.com/48243224/54421247-01cd6980-4747-11e9-99f1-1d1979fdb6a0.jpg)
