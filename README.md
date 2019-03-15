@@ -7,7 +7,6 @@ Student ID: s3792967
 ## Background
 I am 30 years old from Perth WA, married and have a energetic 2 year old boy. I am an electrician and working in the building and construction industry for 13 years. My life evolves around family but i have a passion for AFL football and cricket also. Previous knee reconstructions and surgeries has limited and shutdown my football career. I still enjoy helping my local club though managing one of the teams.
 
-[I'm an inline-style link](https://www.google.com)
 
 ### Interest in IT
 
@@ -16,15 +15,17 @@ I have always had an interest in IT but in my younger age, I spent most of my ti
 ### Ideal Job
 I do believe my ideal job will change throughout my studies however at this time 
 
-[Business IT Anaylist](https://www.seek.com.au/job/38420675?searchrequesttoken=ddce4d38-82ef-4baf-bfa4-3739f675aa4f&type=standard)
-### Profile
+[Business IT Analyst](https://www.seek.com.au/job/38420675?searchrequesttoken=ddce4d38-82ef-4baf-bfa4-3739f675aa4f&type=standard)
+### Personal Profile
+Personal Online Tests are a way of finding out a persons traits or personality. Ive attached 3 results of online tests about myself.
+I found the results interesting knowing what my strengths and weaknesses are when it comes to learning and how i apprroach certain situations. It can be beneficial in a team exercise by knowing my traits i can work towards the certain tasks that i will more likely to excel at and be the most productive in for the team.
+
 [Myers-Briggs Test](https://www.16personalities.com/enfj-personality)
 
 [Learning Style Test](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=8&V=7&T=5)
 
 [Creativity Test](http://www.testmycreativity.com/share/995F766699E4 )
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lightfoot610/MyProfile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Project Ideas
 
