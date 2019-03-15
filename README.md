@@ -15,13 +15,14 @@ I have always had an interest in IT but in my younger age, I spent most of my ti
 
 ### Ideal Job
 I do believe my ideal job will change throughout my studies however at this time 
-[https://www.seek.com.au/job/38420675?searchrequesttoken=ddce4d38-82ef-4baf-bfa4-3739f675aa4f&type=standard](url)
+
+[Business IT Anaylist](https://www.seek.com.au/job/38420675?searchrequesttoken=ddce4d38-82ef-4baf-bfa4-3739f675aa4f&type=standard)
 ### Profile
-[https://www.16personalities.com/enfj-personality](url)
+[Myers-Briggs Test](https://www.16personalities.com/enfj-personality)
 
-[http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=8&V=7&T=5](url)
+[Learning Style Test](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=8&V=7&T=5)
 
-[http://www.testmycreativity.com/share/995F766699E4 ](url)
+[Creativity Test](http://www.testmycreativity.com/share/995F766699E4 )
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lightfoot610/MyProfile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
