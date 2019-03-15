@@ -7,6 +7,7 @@ Student ID: s3792967
 ## Background
 I am 30 years old from Perth WA, married and have a energetic 2 year old boy. I am an electrician and working in the building and construction industry for 13 years. My life evolves around family but i have a passion for AFL football and cricket also. Previous knee reconstructions and surgeries has limited and shutdown my football career. I still enjoy helping my local club though managing one of the teams.
 
+[I'm an inline-style link](https://www.google.com)
 
 ### Interest in IT
 
