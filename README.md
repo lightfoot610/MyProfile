@@ -6,7 +6,7 @@ s3792967@student.rmit.edu.au
 
 ![family7jpg](https://user-images.githubusercontent.com/48243224/54421247-01cd6980-4747-11e9-99f1-1d1979fdb6a0.jpg)
 
-I am 30, married and have a energetic 2 year old boy. I am an electrician and working in the building and construction industry for 13 years. My life evolves around family but i have a passion for AFL football and cricket also. Previous knee reconstructions and surgeries has limited and shutdown my football career. I still enjoy helping my local club though managing one of the teams.
+I am 30 years old from Perth WA, married and have a energetic 2 year old boy. I am an electrician and working in the building and construction industry for 13 years. My life evolves around family but i have a passion for AFL football and cricket also. Previous knee reconstructions and surgeries has limited and shutdown my football career. I still enjoy helping my local club though managing one of the teams.
 
 
 ### Interest in IT
