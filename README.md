@@ -36,7 +36,6 @@ I found the results interesting knowing what my strengths and weaknesses are whe
 
 [Creativity Test](http://www.testmycreativity.com/share/995F766699E4 )
 
+## Project Idea
 
-### Project Ideas
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Click Here for My Project Idea]( https://lightfoot610.github.io/Project-Idea/)
