@@ -5,7 +5,7 @@ Student ID: s3792967
 
 ![family7jpg](https://user-images.githubusercontent.com/48243224/54421247-01cd6980-4747-11e9-99f1-1d1979fdb6a0.jpg)
 ## Background
-I am 30 years old from Perth WA, married and have a energetic 2 year old boy. I am an electrician and working in the building and construction industry for 13 years. My life evolves around family but i have a passion for AFL football and cricket also. Previous knee reconstructions and surgeries has limited and shutdown my football career. I still enjoy helping my local club through managing one of the teams.
+I am 30 years old from Perth WA, married and have an over energetic 2 year old boy. I am an electrician and working in the building and construction industry for 13 years. My life evolves around family but I have a passion for AFL football and cricket also. Previous knee reconstructions and surgeries has limited and shutdown my football career. I still enjoy helping my local club through managing one of the teams.
 
 
 ## Interest in IT
@@ -13,7 +13,7 @@ I am 30 years old from Perth WA, married and have a energetic 2 year old boy. I 
 I have always had an interest in IT but in my younger age, I spent most of my time invested in sporting activities. Now with my body not as able as before I've begun to spend more time behind a screen and become curious about how the internet, programs, applications, all come to be. My experience is limited, I completed BIT (Business Information Technology) subject in high school and set up switches, comms racks through my work for homes and businesses. I see IT guys come in and program rooms and areas I’ve wired and found their work so much more intriguing. I chose to RMIT to complete a Bachelor of IT and learn these skills and expand my knowledge in a more challenging and rewarding field.
 
 ## Ideal Job
-The ideal job for at this time is a business IT analyst as it I know its an important position and it matches my desire to learn more about thriving business and how to need to IT to do it. y
+The ideal job for me at this time is a business IT analyst as it I know its an important position and it matches my desire to learn more about how businesses are run and the importance of IT to create a successful business. I want to be the problem solver of the gap between business problems and technology solutions. I will assist businesses with storing documentation and providing systems that integrates technology into their works and provide easier solutions to function and thrive as a business.
 #### Job Requirements
 -Bachelor’s degree in Information Technology and/or Commerce or a relevant discipline 
 
